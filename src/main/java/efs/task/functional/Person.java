@@ -7,7 +7,6 @@ class Person {
     private final Country countryOfLiving;
     private final String cityOfLiving;
 
-
     Person(String name, int age, String cityOfLiving, Country countryOfLiving) {
         this.name = name;
         this.age = age;
